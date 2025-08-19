@@ -43,11 +43,11 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: '5',
-    name: 'Wireless Phone Charger',
-    price: 39.99,
-    description: 'Fast wireless charging pad compatible with all Qi-enabled devices.',
-    image: 'https://images.unsplash.com/photo-1609592806596-4fa8b8e3c9a9?w=400&h=400&fit=crop',
-    category: 'Electronics',
+    name: 'Office Chair',
+    price: 199.99,
+    description: 'Comfortable office chair with lumbar support and adjustable height.',
+    image: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=400&fit=crop',
+    category: 'Furniture',
     rating: 4.1,
     inStock: true
   },
