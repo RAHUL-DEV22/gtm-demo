@@ -173,11 +173,11 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: '18',
-    name: 'Bamboo Cutting Board',
-    price: 19.99,
-    description: 'Eco-friendly bamboo cutting board with juice groove and easy-grip handles.',
-    image: 'https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?w=400&h=400&fit=crop',
-    category: 'Kitchen & Dining',
+    name: 'Earbuds',
+    price: 89.99,
+    description: 'Earbuds with active noise cancellation',
+    image: 'https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&h=400&fit=crop',
+    category: 'Electronics',
     rating: 4.7,
     inStock: true
   },
